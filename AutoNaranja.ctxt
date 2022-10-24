@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AutoNaranja
+comment0.text=\r\n\ Proyecto\ Auto\r\n\ \r\n\ @author\ Leonardo\ Buleje\r\n\ @version\ version\ 1.0\r\n
+comment1.params=numvelocidad
+comment1.target=AutoNaranja(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ AutoNaranja\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ aumentar_velocidad()
+numComments=4

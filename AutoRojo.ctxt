@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AutoRojo
+comment0.text=\r\n\ Proyecto\ Auto\r\n\ \r\n\ @author\ Leonardo\ Buleje\r\n\ @version\ version\ 1.0\r\n
+comment1.params=numvelocidad
+comment1.target=AutoRojo(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
